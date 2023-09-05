@@ -10,8 +10,6 @@ Loop Count: 3  <br>
 
 Summary:  <br>
 The load test was conducted with three iterations of GET, POST, PUT, PATCH, and DELETE     requests to the JSONPlaceholder API. All tests passed successfully, and the system performed as expected within the defined parameters.  <br>
-![Alt Text](Images\Screenshot 2023-09-05 171629.png)
-
 
 Click the links below to see full details;  <br>
 https://docs.google.com/document/d/1MTN8hkn_0j_NLkNAKaMHpqeIXDp1RstoWYCugff_p30/edit?usp=sharing
